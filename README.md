@@ -15,6 +15,8 @@ Please put each of the path for the following arguments between quotation mark
 
 Interval argument it can be an simple integer to represent the time interval when the code will re-run and sync again.
 
+'--interval 0' == It's used for one-time execution of the script
+
 ===EXAMPLE OF PARAMETERS USAGE===
 
 ![Terminal Examples](https://github.com/sto-yan06/Python-Synchronize-Source---Replica/assets/116439554/598c1672-d353-4a85-b162-c3f49b112a71)
