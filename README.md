@@ -19,57 +19,76 @@ Interval argument it can be an simple integer to represent the time interval whe
 
 ===EXAMPLE OF PARAMETERS USAGE===
 
-![Terminal Examples](https://github.com/sto-yan06/Python-Synchronize-Source---Replica/assets/116439554/598c1672-d353-4a85-b162-c3f49b112a71)
+
+![Terminal Examples](https://github.com/sto-yan06/Python-Synchronize-Source---Replica/assets/116439554/532ad77b-e2c2-4bc2-bdba-f1976506b230)
+
 
 SOURCE FILE BEFORE EXECUTION:
 
-![Source File Before Exec](https://github.com/sto-yan06/Python-Synchronize-Source---Replica/assets/116439554/9f521ddd-1a08-49bc-81f5-6b6b66b31aab)
+
+![Source File Before Exec](https://github.com/sto-yan06/Python-Synchronize-Source---Replica/assets/116439554/f56484d9-05af-405f-a509-6bb24b5ffb71)
+
 
 REPLICA FILE BEFORE EXECUTION:
 
-![Replica Folder Before Exec](https://github.com/sto-yan06/Python-Synchronize-Source---Replica/assets/116439554/bec8ed10-81d6-4bf9-b234-22e411062ddd)
 
+![Replica Folder Before Exec](https://github.com/sto-yan06/Python-Synchronize-Source---Replica/assets/116439554/db63352d-69b8-47a2-b838-1695ef653690)
 
 
 2. It Creates a Replica Folder and a Log File to specified path and if the folder it does not contain any matching data as the Source, it creates the files into Replica Folder
 
 Console OutPut:
 
-![Console OutPut After Exec](https://github.com/sto-yan06/Python-Synchronize-Source---Replica/assets/116439554/f9af2e70-6671-45f1-b9a9-9dd2dad017f8)
+
+![Console OutPut After Exec](https://github.com/sto-yan06/Python-Synchronize-Source---Replica/assets/116439554/8f1c468b-035b-49cb-b0c9-e7363bf30dbd)
+
+
 
 Replica Folder After Execution:
 
-![replica Folder After Execution](https://github.com/sto-yan06/Python-Synchronize-Source---Replica/assets/116439554/a3a5184a-cac2-46d1-8e87-5c79f61cff8d)
+
+![replica Folder After Execution](https://github.com/sto-yan06/Python-Synchronize-Source---Replica/assets/116439554/0896c0dc-fd15-421e-8d1c-588026e28562)
+
 
 Log File After Execution:
 
-![LogFile After Exec](https://github.com/sto-yan06/Python-Synchronize-Source---Replica/assets/116439554/c9972be6-4282-4fc9-af2c-bb80ea6dd33d)
+
+![LogFile After Exec](https://github.com/sto-yan06/Python-Synchronize-Source---Replica/assets/116439554/4bcfd45a-52a1-43ea-b2c5-1bdf3e611859)
+
+
 
 3. It updates the change of any file giving the path for it:
 
 Source File Update:
 
-![Source File Written](https://github.com/sto-yan06/Python-Synchronize-Source---Replica/assets/116439554/d2011f8b-9702-40ce-9b29-0639a5e2bcf8)
+
+![Source File Written](https://github.com/sto-yan06/Python-Synchronize-Source---Replica/assets/116439554/6f5e5f39-c7dc-46b9-a7b6-131a7c64dcc8)
+
 
 LogFile Update:
 
-![LogFIle Update](https://github.com/sto-yan06/Python-Synchronize-Source---Replica/assets/116439554/5eecb588-0d8f-4e01-874e-3f4f624980f4)
+
+![LogFIle Update](https://github.com/sto-yan06/Python-Synchronize-Source---Replica/assets/116439554/00c2c65e-382e-4861-8d02-9e8f61af2fda)
+
 
 4. If any file / directory it's removed from Source Folder, it asks the user whether to delete it from Replica Folder as well, or not. And it logs the action in LogFile
 
 IN THE FOLLOWING PHOTO I DELETED 'FOLDER5' and 'FILE5':
 
-![Deleted Folder 5 and FIle 5](https://github.com/sto-yan06/Python-Synchronize-Source---Replica/assets/116439554/56023f19-0ad0-40b9-a7ec-c48d105f7bb3)
+
+![Deleted Folder 5 and FIle 5](https://github.com/sto-yan06/Python-Synchronize-Source---Replica/assets/116439554/a7c97f5c-8790-4acd-8c87-1b39eb84d5d9)
+
+
 
 Terminal OutPut
 
-![Terminal Output](https://github.com/sto-yan06/Python-Synchronize-Source---Replica/assets/116439554/d568d5d5-b697-4972-869a-c6048bca175c)
+
+![Terminal Output](https://github.com/sto-yan06/Python-Synchronize-Source---Replica/assets/116439554/f9adad70-2bbe-4e75-ae2b-5679f7f21f20)
+
 
 LogFile:
 
-![LogFile Deleting](https://github.com/sto-yan06/Python-Synchronize-Source---Replica/assets/116439554/25a04d1d-2cfc-496a-869c-43ac08a886d7)
-
-
+![LogFile Deleting](https://github.com/sto-yan06/Python-Synchronize-Source---Replica/assets/116439554/8a9cde5e-03f9-4770-8ed0-697e1d4aa987)
 
 
 
