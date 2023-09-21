@@ -1,4 +1,5 @@
 # © Copyright 2023 by George Stoian
+# © stoian.george06@gmail.com
 #All rights reserved
 
 #This python script uses 4 arguments to Synchronize Two Folders
