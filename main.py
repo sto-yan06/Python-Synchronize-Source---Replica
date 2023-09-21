@@ -1,10 +1,15 @@
+# © Copyright 2023 by George Stoian
+#All rights reserved
+
+#This python script uses 4 arguments to Synchronize Two Folders
+
+
 import os
 import time
 import shutil
 import hashlib
 import datetime
 import argparse
-import threading
 
 
 class Pathes_as_parameters():
