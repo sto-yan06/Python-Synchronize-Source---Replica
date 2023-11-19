@@ -5,15 +5,15 @@ It is meant to be used for synchronizing two folders
 
 # Terminal Run:
 
-1. ---- Pass the arguments for the script ----
+---- Pass the arguments for the script ----
 
-# Please put each of the path for the following arguments between quotation mark
+Please put each of the path for the following arguments between quotation mark
 
    '--src' = Source Folder; 
    '--dst' = Replica Folder; 
    '--log' = Path to create LogFile
 
-# Interval argument it can be an simple integer to represent the time interval when the code will re-run and sync again.
+Interval argument it can be an simple integer to represent the time interval when the code will re-run and sync again.
 
    '--interval 0' == It's used for one-time execution of the script
 
