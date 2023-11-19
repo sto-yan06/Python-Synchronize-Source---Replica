@@ -1,23 +1,23 @@
 This Python script is made by George Stoian
 It is meant to be used for synchronizing two folders 
 
---USAGE OF SCRIPT--
+# --USAGE OF SCRIPT--
 
-Terminal Run:
+# Terminal Run:
 
 1. ---- Pass the arguments for the script ----
 
-Please put each of the path for the following arguments between quotation mark
+# Please put each of the path for the following arguments between quotation mark
 
    '--src' = Source Folder; 
    '--dst' = Replica Folder; 
    '--log' = Path to create LogFile
 
-Interval argument it can be an simple integer to represent the time interval when the code will re-run and sync again.
+# Interval argument it can be an simple integer to represent the time interval when the code will re-run and sync again.
 
-'--interval 0' == It's used for one-time execution of the script
+   '--interval 0' == It's used for one-time execution of the script
 
-===EXAMPLE OF PARAMETERS USAGE===
+# ===EXAMPLE OF PARAMETERS USAGE===
 
 
 ![Terminal Examples](https://github.com/sto-yan06/Python-Synchronize-Source---Replica/assets/116439554/532ad77b-e2c2-4bc2-bdba-f1976506b230)
