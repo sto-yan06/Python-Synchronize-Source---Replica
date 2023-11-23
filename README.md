@@ -1,6 +1,3 @@
-This Python script is made by George Stoian
-It is meant to be used for synchronizing two folders 
-
 # --USAGE OF SCRIPT--
 
 # Terminal Run:
